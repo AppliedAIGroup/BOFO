@@ -14,3 +14,4 @@ The BOFO software should have 4 parts: two parts inside raspiberry Pi :image pro
 fleet management, remote configuration.
 
 #### todo 
+1.powertest with 10000 mhA batteries and 60,600 seconds sleep time.
