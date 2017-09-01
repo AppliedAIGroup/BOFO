@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b8f1e8e-d727-49ad-b3f2-4d2f90f4c15e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestVersion/test_plugin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" afterPath="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestVersion/temp.py" afterPath="$PROJECT_DIR$/TestVersion/temp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestVersion/temptest.py" afterPath="$PROJECT_DIR$/TestVersion/temptest.py" />
-    </list>
+    <list default="true" id="6b8f1e8e-d727-49ad-b3f2-4d2f90f4c15e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temp.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="temp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestVersion/temp.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
@@ -146,7 +140,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="心目中的'图像识别和配置终端'长什么样？.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="心目中的'图像识别和配置终端'长什么样？.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -158,6 +152,13 @@
                 <js_state />
               </second_editor>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testwidgets.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Devlog/testwidgets.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -802,13 +803,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/seaborn/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/boto/s3/connection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-315">
@@ -1117,19 +1111,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="276">
-            <caret line="88" column="67" lean-forward="false" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="67" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/skimage/filters/lpi_filter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -1199,6 +1180,24 @@
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devlog/testwidgets.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="88" column="67" lean-forward="false" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="67" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
