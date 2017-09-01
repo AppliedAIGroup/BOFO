@@ -2,19 +2,28 @@
 power test
 """
 
+# import picamera
+import leancloud, logging
 from time import sleep
-import picamera, leancloud, logging
+from leancloud import LeanCloudError
 
-#### configuration ####
+# import traceback
+
+
+# --------------configuration --------------#
 # leancloud
 leancloud_APPID = 'hHcG1lVaaroON4QtEi1seRxb-gzGzoHsz'
 leancloud_APPKey = 'SbR79lNTiRSM8bAm5D7JuD3E'
 # camera
 camera_resolution = '640*480'  # 640*480,1024*768
 # loop
-sleep_time = 60  # seconds
+sleep_time = 1  # seconds
 
 
+# --------------init----------------#
+
+
+# -------------method ------------#
 def configure_camera():
     picamera.PiCamera.resolution = (640, 480)
     picamera.PiCamera.awb_mode = 'off'
@@ -29,14 +38,24 @@ def get_camera_image(name):
 
 def init_leancloud(leancloudID, leancloudAPP):
     leancloud.init(app_id=leancloud_APPID, app_key=leancloud_APPKey)
-    # logging.basicConfig(level=logging.DEBUG)
+    logging.basicConfig(level=logging.DEBUG)
 
 
 def send_result(value):
     TestObject = leancloud.Object.extend('fleet')
-    test_object = TestObject.creat_without_data('599e44ef8d6d8100580f8279')
-    test_object.set('cont', value)
-    test_object.save()
+    test_object = TestObject.create_without_data('59a61dc58d6d810057fdd202')
+    test_object.set('cont', str(value))
+    try:
+        test_object.save()
+        print('save success')
+    except Exception as e:
+        print(Exception,e)
+
+
+        # f = open("/Users/zhizhao/Desktop/log.txt", 'a')
+        # traceback.print_exc(file=f)
+        # f.flush()
+        # f.close()
 
 
 def calculate_image():
@@ -126,15 +145,15 @@ def calculate_image():
     # return calculate_result
 
 
-
-### main loop ###
-init_leancloud()
-configure_camera()
-cont = 0
-
-while True:
-    cont = cont + 1
-    sleep(sleep_time)
-    get_camera_image(cont)
-    calculate_image()
-    send_result(cont)
+# --------------main loop ------------#
+if __name__ == '__main__':
+    init_leancloud(leancloud_APPID, leancloud_APPKey)
+    # configure_camera()
+    cont = 0
+    while True:
+        cont = cont + 1
+        sleep(sleep_time)
+        # get_camera_image(cont)
+        # calculate_image()
+        send_result(cont)
+        print(cont)
