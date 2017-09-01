@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b8f1e8e-d727-49ad-b3f2-4d2f90f4c15e" name="Default" comment="" />
+    <list default="true" id="6b8f1e8e-d727-49ad-b3f2-4d2f90f4c15e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" afterPath="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -144,8 +146,8 @@
         <entry file="file://$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="276">
-                <caret line="88" column="67" lean-forward="false" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="67" />
+              <first_editor relative-caret-position="246">
+                <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -235,12 +237,12 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Devlog/Devlog.md" />
-        <option value="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" />
         <option value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/skimage/restoration/__init__.py" />
         <option value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/skimage/restoration/test_plugin.py" />
         <option value="$PROJECT_DIR$/TestVersion/test_plugin.py" />
         <option value="$PROJECT_DIR$/TestVersion/temptest.py" />
         <option value="$PROJECT_DIR$/TestVersion/temp.py" />
+        <option value="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" />
       </list>
     </option>
   </component>
@@ -1191,8 +1193,8 @@
     <entry file="file://$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="276">
-            <caret line="88" column="67" lean-forward="false" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="67" />
+          <first_editor relative-caret-position="246">
+            <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
