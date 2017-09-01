@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b8f1e8e-d727-49ad-b3f2-4d2f90f4c15e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Devlog/Devlog.md" afterPath="$PROJECT_DIR$/Devlog/Devlog.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +61,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="111">
-                <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -70,12 +72,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Devlog.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Devlog.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Devlog/Devlog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="24" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="心目中的'图像识别和配置终端'长什么样？.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="360">
+                <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -220,6 +237,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Devlog/Devlog.md" />
+        <option value="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" />
       </list>
     </option>
   </component>
@@ -729,7 +747,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/predix_driver.py" />
     <entry file="file://$PROJECT_DIR$/temptest_gettoken.py" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/leancloud/object_.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1006,8 +1023,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="111">
-            <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1025,8 +1042,21 @@
     <entry file="file://$PROJECT_DIR$/Devlog/Devlog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor>

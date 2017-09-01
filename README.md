@@ -17,7 +17,7 @@ BOFO是一个基于python开发的项目，整个项目包含了：
 以及，更为重要的，整个项目从0到1的点滴细节。
 
 ## 目前
-BOFO目前正在开发之中。各项模块都在逐步搭建之中。大家开发日志见！
+BOFO目前正在开发之中。各项模块都在逐步搭建之中。大家[开发日志][https://github.com/AppliedAIGroup/BOFO/blob/master/Devlog/Devlog.md]见。
 
 
 
