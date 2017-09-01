@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b8f1e8e-d727-49ad-b3f2-4d2f90f4c15e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" afterPath="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestVersion/temptest.py" afterPath="$PROJECT_DIR$/TestVersion/temptest.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +58,8 @@
       <file leaf-file-name="temptest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestVersion/temptest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="227">
+              <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -115,8 +116,8 @@
       <file leaf-file-name="core.py" pinned="false" current-in-tab="false">
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/skimage/viewer/widgets/core.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="252" column="38" lean-forward="true" selection-start-line="252" selection-start-column="14" selection-end-line="252" selection-end-column="38" />
+            <state relative-caret-position="408">
+              <caret line="77" column="8" lean-forward="false" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -132,22 +133,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lpi_filter.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/skimage/filters/lpi_filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="166" column="34" lean-forward="true" selection-start-line="166" selection-start-column="18" selection-end-line="166" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="心目中的'图像识别和配置终端'长什么样？.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="246">
-                <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <first_editor relative-caret-position="382">
+                <caret line="89" column="23" lean-forward="false" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -240,9 +231,9 @@
         <option value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/skimage/restoration/__init__.py" />
         <option value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/skimage/restoration/test_plugin.py" />
         <option value="$PROJECT_DIR$/TestVersion/test_plugin.py" />
-        <option value="$PROJECT_DIR$/TestVersion/temptest.py" />
         <option value="$PROJECT_DIR$/TestVersion/temp.py" />
         <option value="$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md" />
+        <option value="$PROJECT_DIR$/TestVersion/temptest.py" />
       </list>
     </option>
   </component>
@@ -857,13 +848,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestVersion/fetchhost.py" />
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-2010535109/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="339" column="4" lean-forward="false" selection-start-line="339" selection-start-column="4" selection-end-line="339" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestVersion/algorithm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -1092,7 +1076,7 @@
         <state relative-caret-position="112">
           <caret line="29" column="91" lean-forward="false" selection-start-line="29" selection-start-column="91" selection-end-line="29" selection-end-column="91" />
           <folding>
-            <element signature="e#727#798#0" expanded="true" />
+            <element signature="e#727#798#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1157,24 +1141,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestVersion/temptest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/skimage/viewer/widgets/core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="252" column="38" lean-forward="true" selection-start-line="252" selection-start-column="14" selection-end-line="252" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestVersion/temp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -1190,11 +1156,37 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-2010535109/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5421" column="8" lean-forward="false" selection-start-line="5421" selection-start-column="8" selection-end-line="5421" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestVersion/temptest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/skimage/viewer/widgets/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="77" column="8" lean-forward="false" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Devlog/心目中的'图像识别和配置终端'长什么样？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="246">
-            <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <first_editor relative-caret-position="382">
+            <caret line="89" column="23" lean-forward="false" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor>

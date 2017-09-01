@@ -28,6 +28,7 @@ plugin += Slider('frequency', 0.1,0.6, value=0.1, value_type='float') #slider的
 # plugin += CheckBox('multichannel', value=False)
 # plugin += SaveButtons()
 # plugin += OKCancelButtons()
+Slider.callback()
 
 viewer += plugin
 viewer.show()
