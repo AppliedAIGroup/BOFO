@@ -20,15 +20,6 @@ BOFO是一个基于python开发的项目，整个项目包含了：
 BOFO目前正在开发之中。各项模块都在逐步搭建之中。大家开发日志见！
 
 
-## 平台的选择
-目前的平台配置是：
-- 嵌入式系统：树莓派
-- 开发平台：python
-- 人工智能平台：tensorflow
-
-同很多初学者一样，最开始选择某一个平台通常是随意的。我并没有做任何调研，选择python是因为隔壁同事也在用。我抢不到matlab的license而愤然转向了python。而树莓派的选择则更为简单，旁边的同事在用，而且便宜。
-
-但是今天我非常庆幸我选择了这两个。Python简单易用，非常适合非computer scientist背景的人，且可以轻松的植入嵌入式系统中。树莓派简单、便宜，非常适合前期探索式研究。
 
 Hi,everone. The BOFO project relies on a smart gauge containting camera, ARM and WIFI moduels,so some codes in this repository need this hardwears. But we also have some fleet management & algorithm configuration you can use.
 
