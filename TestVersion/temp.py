@@ -15,6 +15,8 @@ import io
 from skimage.io import imread
 
 
+from PyQt5 import QtGui
+
 def printf(sigma,value):
     print(value)
     return
